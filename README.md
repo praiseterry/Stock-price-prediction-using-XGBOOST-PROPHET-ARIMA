@@ -1,6 +1,6 @@
 # Stock-price-prediction-using-XGBOOST-PROPHET-ARIMA
 This project utilizes three powerful algorithms – XGBoost, Prophet, and ARIMA
-Stock Price Prediction using XGBoost, Prophet, and ARIMA
+
 Welcome to the Stock Price Prediction project utilizing XGBoost, Prophet, and ARIMA! This repository aims to provide a comprehensive approach to forecasting stock prices, leveraging the power of three advanced algorithms. Whether you're a data scientist, machine learning enthusiast, or a finance professional, this project offers valuable insights and practical implementations for predicting stock prices with accuracy and reliability.
 
 Overview
