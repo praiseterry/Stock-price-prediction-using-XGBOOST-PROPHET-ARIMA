@@ -7,5 +7,7 @@ Overview
 Stock price prediction is a challenging task due to its inherent volatility and complexity. In this project, we employ three powerful algorithms to tackle this challenge:
 
 XGBoost: A gradient boosting algorithm known for its efficiency and effectiveness in handling large datasets with complex features. By leveraging XGBoost, we can capture intricate patterns in stock price data and make robust predictions.
+
 Prophet: Developed by Facebook's Core Data Science team, Prophet is a versatile tool for time series forecasting. It excels in capturing seasonality, trends, and holidays in the data, making it particularly suitable for stock price prediction.
+
 ARIMA (AutoRegressive Integrated Moving Average): A classical time series forecasting method that has been widely used for decades. Its ability to model the linear dynamics of a time series and capture seasonality and trends makes it a valuable addition to our prediction ensemble.
